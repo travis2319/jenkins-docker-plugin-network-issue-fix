@@ -40,4 +40,4 @@ With this setup:
 
 ```bash
 git clone https://github.com/travis2319/jenkins-docker-plugin-network-issue-fix.git
-cd https://github.com/travis2319/jenkins-docker-plugin-network-issue-fix.git
+cd jenkins-docker-plugin-network-issue-fix.git
